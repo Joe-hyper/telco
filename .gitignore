@@ -1,0 +1,16 @@
+# ignore database file
+database.ini
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+myenv/
+
+# ignore everything in the following folders
+data/**
