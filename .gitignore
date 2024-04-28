@@ -15,3 +15,11 @@ myenv/
 # ignore everything in the following folders
 data/**
 docs/*
+
+#ignore all doc
+*.docx
+# ignore all pdf
+*.pdf
+
+# Ignore all ppt
+*.ppt
