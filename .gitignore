@@ -14,3 +14,4 @@ myenv/
 
 # ignore everything in the following folders
 data/**
+docs/*
